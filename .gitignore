@@ -1,3 +1,7 @@
+# This is a pattern for ignoring custom files.
+# Anything (file or directory) that is prefixed with '~' will be ignored.
+~*
+
 # Compiled class file
 *.class
 
