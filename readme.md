@@ -1,5 +1,5 @@
 # Welcome to the repo notes branch.
-## This is the place to store notes and other material about the repository.
+This is the place to store notes and other material about the repository.
 
 ### Generic branches:
 This section describes branches that belong to the repository itself, not to one of the projects specifically.  
