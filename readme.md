@@ -3,9 +3,9 @@
 Check out the `repo/notes` branch for notes on repository specific branches and the repository as a whole.  
 In this, the word "version" refers to any distinct release of the library, refered to by a semver (or any other versioning scheme).
 
-## Project structure:
+## Project structure
 
-### Branches:
+### Branches
 Basic branching structure
 
 1.  Main branch (i.e. `main`)  
