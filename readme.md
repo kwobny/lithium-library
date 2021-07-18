@@ -18,3 +18,16 @@ Basic branching structure
     
     Used for development of next version.  
     Can contain anything regardless of if it compiles or works. In other words, this branch can be unstable.  
+
+### Tags
+
+Tags can be used to document different versions/releases of the library. When using them in this manner, the tags should follow the **semver** format.  
+When tagging unstable commits as versions (i.e. versions that cannot belong in main), mark them with the pre-release identifier `unstable`.  
+When tagging a version that has documentation, mark it with the build identifier `documented`. It is alright for a snapshot of code to have two versions associated with it, one documented and another not documented.  
+
+Version tag examples:
+- `v0.1.0`
+- `v6.3.2`
+- `v2.6.4-unstable`
+- `v2.6.4+documented`
+- `v2.6.4-unstable+documented`
