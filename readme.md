@@ -17,6 +17,9 @@ Basic branching structure
     Used for development of next version.  
     Can contain anything regardless of if it compiles or works. In other words, this branch can be unstable.  
 
+3.  Code main (`code-main`)  
+    This branch is the main branch for the code once the first set of documentation for the code is made. See the "Documentation" section for more information.
+
 ### Tags
 
 Tags can be used to document different versions/releases of the library. When using them in this manner, the tags should follow the **semver** format.  
