@@ -29,3 +29,8 @@ Version tag examples:
 - `v2.6.4-unstable`
 - `v2.6.4+documented`
 - `v2.6.4-unstable+documented`
+
+### Documentation
+
+In this project, there will be two tracks of development, one for code and the other for documentation. The code track will obviously exist since the beginning of the project, but the documentation track will only begin when you wish to start making the first set of documentation.  
+The documentation and code are in two separate development tracks/cycles because they may be released/ready at different times. One may delay the release of the other (if they are in the same track). Also, they are a bit independent from each other.  
